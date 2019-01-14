@@ -235,7 +235,7 @@ public class MainActivity extends AppCompatActivity {
                    mDivision  = false;
                }
            }
-          // End of calculator
+          // End of calculator.
        });
     }
 }
