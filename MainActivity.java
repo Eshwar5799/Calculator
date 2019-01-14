@@ -236,7 +236,6 @@ public class MainActivity extends AppCompatActivity {
                }
            }
           // End
-           // END OF PROGRAM
        });
     }
 }
